@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my ecommerce website
+- 🌱 I’m currentlyh learning typescript and next.js
+
+
+- 📫 How to reach me: 
+  - abounassar.john@gmail.com
+  - https://www.linkedin.com/in/john-abounassar/
+
 
 <!--
 **john-abou/john-abou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
