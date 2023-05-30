@@ -1,6 +1,6 @@
 ### Hi there, I'm John A 👋
-- 😎 I'm a junior full stack web developer that specializes in the MERN stack
-- 🔭 I’m currently working on my ecommerce website
+- 😎 I'm a full stack web developer that specializes in the MERN stack
+- 🔭 I’m currently working on a new dating application
 - 🌱 I’m currently learning typescript and next.js
 
 
