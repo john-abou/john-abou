@@ -1,7 +1,7 @@
 ### Hi there, I'm John A 👋
 - 😎 I'm a full stack web developer that specializes in the MERN stack
-- 🔭 I’m currently working on a new blog application
 - 🌱 I’m currently learning django
+- 🔭 I’m currently working on a new blog application (using django)
 
 
 - 📫 How to reach me: 
